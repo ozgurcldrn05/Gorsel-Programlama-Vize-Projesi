@@ -38,7 +38,7 @@ https://date.nager.at/api/v3/PublicHolidays/{yil}/TR
 
 Projeyi bilgisayarınıza indirin:
 
-git clone https://github.com/kullaniciadi/tatiluygulama.git
+git clone https://github.com/ozgurcldrn05/Gorsel-Programlama-Vize-Projesi.git
 
 
 Visual Studio veya VS Code ile açın.
@@ -61,7 +61,7 @@ dotnet run
 
 🤝 Katkı Sağlama
 
-İsteyen herkes projeyi fork edip geliştirme yapabilir.
+İsteyen herkes projeyi fark edip geliştirme yapabilir.
 Pull request göndermekten çekinme! ✨
 
 📜 Lisans
